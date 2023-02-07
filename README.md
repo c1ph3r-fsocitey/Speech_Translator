@@ -7,6 +7,7 @@ This is a speech translator made using python, which can convert speech to text,
 ```
 pip install speechrecognition
 ```
+```
 pip install playsound==1.2.2
 ```
 ```
