@@ -14,5 +14,11 @@ pip install playsound==1.2.2
 pip install googletrans==2.1.0
 ```
 ```
+pip install --upgrade googletrans==4.0.0-rc1
+```
+```
+pip install translate
+```
+```
 pip install gTTS
 ```
